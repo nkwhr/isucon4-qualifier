@@ -3,7 +3,6 @@ requires "DBIx::Sunny";
 requires "JSON::XS";
 requires "Digest::SHA";
 requires "File::Temp";
-requires "Time::Moment";
 
 requires "DBD::mysql";
 requires "Starlet";
